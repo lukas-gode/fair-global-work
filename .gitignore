@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.RDataTmp
+/_targets
+/paper
+/si
+/outputs
+/templates
+/data/external/world_map_custom.geo.json
+README.html
